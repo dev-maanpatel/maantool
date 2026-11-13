@@ -1,0 +1,1 @@
+Before launch, generate sitemap.xml and robots.txt using the final canonical domain. Do not submit placeholder domains to search engines.
